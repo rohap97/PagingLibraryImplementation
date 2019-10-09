@@ -1,0 +1,1 @@
+This is an app that was made by me for understanding how the Paging Library works in Andrpid. It was made using the resources provided by the Google Codelabs. The link of which is given here :- https://codelabs.developers.google.com/codelabs/android-paging/index.html?index=..%2F..index#0
